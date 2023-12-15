@@ -48,6 +48,8 @@ furnace.addRecipe(<thermalfoundation:ore>, <orecore:nether_copper_ore>, 0.0);
 furnace.addRecipe(<orecore:amethyst_ore> * 2, <orecore:nether_amethyst_ore>, 0.0);
 furnace.addRecipe(<thermalfoundation:ore:4> * 3, <orecore:nether_aluminium_ore>, 0.0);
 furnace.setFuel(<sgcraft:naquadah>, 16000);
+furnace.setFuel(<sgcraft:naquadahingot>, 160000);
+furnace.setFuel(<sgcraft:naquadahblock>, 1600000);
 recipes.addShapedMirrored(<sgcraft:zpm>, [[<sgcraft:sgcontrollercrystal>, <sgcraft:sgcontrollercrystal>, <sgcraft:sgcontrollercrystal>],[<sgcraft:sgcontrollercrystal>, <sgcraft:sgcorecrystal>, <sgcraft:pegasus_upgrade>], [null, <sgcraft:sgcontrollercrystal>, null]]);
 recipes.addShapeless(<lucraftcore:hammer>, [<ic2:forge_hammer>.anyDamage()]);
 //File End
