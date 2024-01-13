@@ -90,7 +90,7 @@ hash = "567c291753e88b78caa4bf50c589c026ffadf35efa61d8eb641dd49412c78185"
 
 [[files]]
 file = "config/quark.cfg"
-hash = "55a4bce5fa3eee50955b46294a168c59ec9131fe0ebe242c3c03105a33c9f0ee"
+hash = "6d956313e506152bde35b43920b5e92a22d9932aaaa9c074a84d6d96b47a23ef"
 
 [[files]]
 file = "config/reccomplex.cfg"
