@@ -13,6 +13,10 @@ file = "config/GeneticsReborn/GeneticsReborn.cfg"
 hash = "4066dfb3aaf97f8f06c3966caaef356a70003bf7dcea21e78db2ce58fd18987f"
 
 [[files]]
+file = "config/GeneticsReborn/MobAdditions.json"
+hash = "caddcbebd57d07902b0409688fa7107a6c1c342be34e4c839c018f1b11e0f9e0"
+
+[[files]]
 file = "config/IC2.ini"
 hash = "8e17bfb255616c4c65288c127ceaab63a0ebf33cd76e4898f5be4faf6fb9b018"
 
@@ -605,7 +609,7 @@ metafile = true
 
 [[files]]
 file = "mods/crafttweaker.pw.toml"
-hash = "adde6cc9eeeac12f95fccfc4c40b993f8cd30c7837af4ae43f1303dcbb7917c8"
+hash = "8ed8a0a7736f4e8cb81b67809900711dbde1678024b5c95e11d40f2787eff486"
 metafile = true
 
 [[files]]
@@ -830,7 +834,7 @@ metafile = true
 
 [[files]]
 file = "mods/lucraft-core.pw.toml"
-hash = "a3782dbd89f986f0f19822979175f24ffee442daad5628a95411d325bceb1a89"
+hash = "9838c781cc71e49089a405ff8b13c880d2b49703c274e11e444179b5baf9db57"
 metafile = true
 
 [[files]]
