@@ -342,15 +342,15 @@ hash = "5a80e078f1a45210bb3f58d4da0e050da018969ad3b97be4361905c6964e5646"
 
 [[files]]
 file = "config/ruins_config/templateparser/dartiscraft-ancient-repository-mk3f.tml"
-hash = "14bf3f36d6f52de7966b3704bd69bdb7451f0a5f924b124dba3fa519fc330f29"
+hash = "4f04a67adf838d4ff0a64c34804bc032f61579917a1e230103f6d982332d5abb"
 
 [[files]]
 file = "config/ruins_config/templateparser/dartiscraft-ancient-repository-mk3l.tml"
-hash = "39fd66dadf0a303ab850eadf5bbdd7f0301743805cc9c1cf165ff67cc103085c"
+hash = "42e26e615ec6ba2c4c00d3c621e5533d5af3cf2d98d15effcfd976e6c84b4def"
 
 [[files]]
 file = "config/ruins_config/templateparser/dartiscraft-ancient-repository-mk3r.tml"
-hash = "7c83adc0361732ba1ea889554238b995ac06b0be7255e2408897f6293f7cf99e"
+hash = "630ced7c5be24a811bb656183438f99fee057bed2468416a25510d9a74bb5138"
 
 [[files]]
 file = "config/ruins_config/templateparser/dartiscraft-birchoutpost-uru-thor.tml"
